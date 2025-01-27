@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there
+
+📫 How to reach me: yoyoyuan1729@gmail.com   
+Telegram/X @indiraschka   
+
 
 <!--
 **exanova-y/exanova-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
