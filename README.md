@@ -1,8 +1,5 @@
-## Hi there
-
-📫 How to reach me: watermoonlon@gmail.com   
-Telegram/X @indiraschka   
-
+ദ്ദി(˵•̀ᴗ -˵)✧ Infinite complexity is always right around the corner. 
+How to reach me: x.com/indiraschka
 
 <!--
 **exanova-y/exanova-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
