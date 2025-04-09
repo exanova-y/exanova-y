@@ -1,4 +1,4 @@
-ദ്ദി(˵•̀ᴗ -˵)✧ Infinite complexity is always right around the corner. 
+ദ്ദി(˵•̀ᴗ -˵)✧ Infinite complexity is always right around the corner.    
 How to reach me: x.com/indiraschka
 
 <!--
