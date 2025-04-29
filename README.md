@@ -1,6 +1,7 @@
 ദ്ദി(˵•̀ᴗ -˵)✧ Infinite complexity is always right around the corner.    
-How to reach me: x.com/indiraschka
-
+How to reach me: 
+x.com/indiraschka
+yoyo at mesh.host
 <!--
 **exanova-y/exanova-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
