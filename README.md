@@ -1,18 +1,15 @@
-ദ്ദി(˵•̀ᴗ -˵)✧ Infinite complexity is always right around the corner.    
-How to reach me: 
-x.com/indiraschka   
-yoyo at mesh.host   
-<!--
-**exanova-y/exanova-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ≽(•⩊ •マ≼ ≽(•⩊ •マ≼ 
+Infinite ~~*Coturnix qualis*~~ complexity is always around the corner. 
 
-Here are some ideas to get you started:
+Chaotic-good research engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Python
+- Java
+- React/JavaScript
+
+### Interested in
+#Physics #Engineering #Neurotech #CognitiveScience #Human-Computer-Interaction
+
+[My site](https://yoyo.cat)   
+[X](x.com/indiraschka)
