@@ -8,8 +8,13 @@ Chaotic-good research engineering.
 - Java
 - React/JavaScript
 
+### Ongoing projects
+- Scent synthesis
+- Microelectrode array design for living neurons
+- arXiv wars
+
 ### Interested in
-#Physics #Engineering #Neurotech #CognitiveScience #Human-Computer-Interaction
+#Physics #Engineering #Neurotech #CognitiveScience #HumanComputerInteraction
 
 [My site](https://yoyo.cat)   
 [X](x.com/indiraschka)
