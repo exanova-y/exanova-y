@@ -13,7 +13,7 @@ Chaotic-good research engineering.
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,7 +23,6 @@ Chaotic-good research engineering.
 - [Scent synthesis and detection](https://lu.ma/scentengine)
 - [Microelectrode array design for living neurons](https://x.com/indiraschka/status/1931868741283021041)
 - [arXiv wars](https://indiraschka.substack.com/p/arxiv-wars)
-
 
 ### Colab or chat!
 Website: https://yoyo.cat   
