@@ -2,12 +2,12 @@
 Chaotic-good research engineering. Applied physics and neurotech sometimes. Any pronouns.   
 
 ### Most used languages!
-![Python]
-![Java]
-![JavaScript]
-![React]
-![HTML5]
-![CSS3]
+- Python
+- Java
+- JavaScript
+- React
+- HTML5
+- CSS3
 
 ### Recent projects
 - Low-cost maskless microelectrode arrays   
