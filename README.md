@@ -4,8 +4,11 @@ Chaotic-good research engineering. Applied physics and neurotech sometimes. Any 
 ### Most used languages!
 - Python
 - Java
-- JavaScript
-- React
+
+### Occasionally:   
+- Haskell   
+- JavaScript   
+- React  
 - HTML5
 - CSS3
 
@@ -16,8 +19,8 @@ Chaotic-good research engineering. Applied physics and neurotech sometimes. Any 
 
 ### Colab or chat!
 Website: https://yoyo.cat   
-X: https://x.com/indiraschka   
-Telegram: https://t.me/indiraschka   
-Discord: same handle
+X: https://x.com/c5h9no4_o   
+Telegram: https://t.me/c5h9no4_o   
+Discord: c5h9no4.o
 
 Infinite ~~*Coturnix qualis*~~ complexity is always around the corner. 
