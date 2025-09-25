@@ -1,6 +1,3 @@
-### ≽(•⩊ •マ≼ ≽(•⩊ •マ≼ 
-Chaotic-good research engineering. Applied physics and neurotech sometimes. Any pronouns.   
-
 ### Most used languages!
 - Python
 - Java
@@ -14,7 +11,7 @@ Chaotic-good research engineering. Applied physics and neurotech sometimes. Any 
 
 ### Recent projects
 - Low-cost maskless microelectrode arrays   
-- arXiv RAG   
+- ArXiv RAG and other parsers   
 - Chemical synthesis modelling based on [this library](https://github.com/oliverjgoldstein/Mol-Rep-Haskell-Bayes)   
 
 ### Colab or chat!
