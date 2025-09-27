@@ -11,8 +11,7 @@
 
 ### Recent projects
 - Low-cost maskless microelectrode arrays   
-- ArXiv RAG and other parsers   
-- Chemical synthesis modelling based on [this library](https://github.com/oliverjgoldstein/Mol-Rep-Haskell-Bayes)   
+- ArXiv RAG and research paper parsers
 
 ### Colab or chat!
 Website: https://yoyo.cat   
