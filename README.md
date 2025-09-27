@@ -2,7 +2,7 @@
 - Python
 - Java
 
-### Occasionally:   
+### Learning:   
 - Haskell   
 - JavaScript   
 - React  
