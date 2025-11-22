@@ -4,11 +4,11 @@
 
 ### Learning   
 - Haskell   
-- React, JavaScript, HTML5, CSS3   
+- React, Typescript/JavaScript   
 
 ### Recent projects
-- Low-cost maskless microelectrode arrays   
-- ArXiv paper parsers: Can a simulated panel of experts sift out good papers from the noise? How can we use RAG to find recent papers? How do we distinguish between fringe and mainstream papers   
+- Low-cost microelectrode arrays with laser-induced graphene   
+- ArXiv paper parsers: Can a simulated panel of experts sift out good papers from the noise? and of course using RAG
 
 ### Colab or chat!   
 Website: https://spin.yoyo.cat    
