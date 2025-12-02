@@ -1,10 +1,11 @@
 ### Most used languages!
 - Python
 - Java
-
-### Learning   
-- Haskell   
 - React, Typescript/JavaScript   
+
+### Can sometimes use   
+- Haskell   
+- C
 
 ### Recent projects
 - Low-cost microelectrode arrays with laser-induced graphene   
