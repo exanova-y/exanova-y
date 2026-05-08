@@ -1,3 +1,6 @@
+Interests:
+Science automation, neurotech/comp neuro, stat mech, focused ultrasound, tms, hyperpop, infrastructure
+
 Currently working on:     
 - Science automation! You can see new research summaries at [Bernoulli collective](https://bernoullicollective.org). The first iteration has been [arXiv wars!](https://pawsitivefeedback.substack.com/p/arxiv-wars) followed by [arXiv rag](https://github.com/exanova-y/arxiv-rag)
 
