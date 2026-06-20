@@ -3,7 +3,7 @@ Science automation and robotics, neurotech/comp neuro, focused ultrasound, DIY l
 
 Currently working on:     
 - Science automation! The first iteration has been [arXiv wars!](https://pawsitivefeedback.substack.com/p/arxiv-wars) followed by [arXiv rag](https://github.com/exanova-y/arxiv-rag)
-- Working. Open to work!
+- Literally working, hahaha... Open to work!
 
 Other projects:   
 - [Low-cost scalable electrode arrays](https://adiabatic.garden/favs/diy-mea.html)   
