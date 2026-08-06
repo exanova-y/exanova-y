@@ -1,7 +1,7 @@
 Please see https://adiabatic.garden 
 
 Interests:   
-Focused ultrasound, neuromodulation, neurotech hardware, science automation and robotics, software prototyping, metascience theory
+Focused ultrasound, fNIRS, neuromodulation, neurotech hardware, scientific infrastructure, algorithms, autoresearch, software prototyping, theory.
 
 Projects:   
 - [Low-cost scalable electrode arrays](https://adiabatic.garden/favs/diy-mea)   
